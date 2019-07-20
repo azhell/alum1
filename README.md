@@ -1,0 +1,1 @@
+Alum1 is a mathematical game of strategy in which two players take turns removing objects (matches) from the top heap. On each turn, a player must remove one, two or three objects provided they all come from the same heap. The goal of the game is not to be the player to remove the last object.
